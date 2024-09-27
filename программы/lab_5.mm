@@ -1,0 +1,13 @@
+$pos 008
+FFFA
+020
+$pos 10
+TSF 1
+BR 10
+IN 1
+CLF 1
+MOV (009)
+ISZ 008
+BR 10
+HLT
+
